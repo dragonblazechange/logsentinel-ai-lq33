@@ -1,4 +1,4 @@
-# 
+# Novo LogSentinel pacote. Baixe e instale com baixo uso de recursos e configurações personalizáveis — rápido, seguro e fácil de usar.
 
 
 
